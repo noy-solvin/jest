@@ -14,4 +14,4 @@ Anyone who contributes code or content or time, via issues or pull requests or o
 
 ## Outside Contributors
 
-Anyone who contributes code or content or time, via issues or pull requests or otherwise. Outside Contributors do not have any additional permissions on the project.
+Anyone who contributes code or content or time, via issues or pull requests or otherwise. Outside Contributors do not have any additional permissions on the project..
